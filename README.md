@@ -1,3 +1,7 @@
+# Nasıl Çalıştırılır
+
+`python main.py` ile oyunu çalıştırabilirsiniz.
+
 # Nasıl Oynanır
 
 - **A** / **D** ya da **Sol** ve **Sağ** ok tuşlarıyla sağa ve sola hareket et.
